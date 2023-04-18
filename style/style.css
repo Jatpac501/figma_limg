@@ -1401,7 +1401,6 @@ header {
 .input {
   width: 100%;
   display: block;
-  padding: 0;
   outline: 0;
   border-radius: 9px;
   transition: all 0.2s ease 0s;
